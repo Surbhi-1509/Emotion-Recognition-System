@@ -15,7 +15,6 @@ This project uses deep learning to classify facial expressions into seven catego
 - Scikit-learn
 
 ## Project Structure
-## Project Structure
 ```
 Emotion-Recognition-System/
 ├── dataset/               # FER-2013 training and test images
